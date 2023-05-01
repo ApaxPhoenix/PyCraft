@@ -7,8 +7,8 @@ __pycache__/
 *.so
 
 # Jetbrains & Vscode
-.idea
-.vscode
+*.idea
+*.vscode
 
 # Distribution / packaging
 .Python
