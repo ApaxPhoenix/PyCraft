@@ -20,7 +20,7 @@ To run the Minecraft clone, follow these steps:
    ```
    pip install pyglet pyopengl
    ```
-3. Download the project files from [GitHub](https://github.com/username/minecraft-clone)
+3. Download the project files from [GitHub](https://github.com/ApaxPhoenix/PyCraft)
 4. Run the `main.py` file in a terminal or command prompt:
    ```
    python main.py
