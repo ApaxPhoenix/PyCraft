@@ -15,7 +15,7 @@ The Minecraft clone currently includes the following features:
 
 To run the Minecraft clone, follow these steps:
 
-1. Install Python 3.x from [python.org](https://www.python.org/downloads/)
+1. Install Python 3.x from [Python.org](https://www.python.org/downloads/)
 2. Install the Pyglet and PyOpenGL libraries using pip:
    ```
    pip install pyglet pyopengl
