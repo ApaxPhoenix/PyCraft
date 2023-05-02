@@ -1,6 +1,6 @@
 # PyCraft
 
-This project is a Minecraft clone built using Python and the Pyglet library for rendering, as well as the PyOpenGL library for interfacing with OpenGL. The goal of the project is to create a lightweight and customizable alternative to Minecraft that can be easily extended with new features and mods.
+This project is a Minecraft clone made using Python, PyOpenGL library for interfacing with OpenGL, and Pyglet library for rendering. The aim of this project is to provide a lightweight and flexible alternative to Minecraft that can be easily modified and extended with new mods and features.
 
 ## Installation
 
