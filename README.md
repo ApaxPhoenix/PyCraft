@@ -26,10 +26,6 @@ To run the Minecraft clone, follow these steps:
    python main.py
    ```
 
-## Modding
-
-The Minecraft clone is designed to be easily moddable. To create a mod, simply create a new Python file in the `mods` directory and add your code. You can use Pyglet and PyOpenGL to create custom blocks, items, and entities, as well as modify the game's behavior.
-
 ## Contributing
 
 Contributions are welcome! To contribute to the Minecraft clone, follow these steps:
@@ -37,9 +33,3 @@ Contributions are welcome! To contribute to the Minecraft clone, follow these st
 1. Fork the project on GitHub
 2. Make your changes in a new branch
 3. Submit a pull request to the main repository
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more information.
-
-Written by Chatsonic
