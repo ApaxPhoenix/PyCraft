@@ -7,9 +7,6 @@ This project is a Minecraft clone built using Python and the Pyglet library for 
 The Minecraft clone currently includes the following features:
 
 - Basic terrain generation with hills, trees, and caves
-- First-person camera movement with WASD controls
-- Block placement and removal with the mouse
-- Day/night cycle with dynamic lighting
 
 ## Installation
 
