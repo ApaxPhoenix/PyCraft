@@ -7,9 +7,9 @@ This project is a Minecraft clone made using Python, PyOpenGL library for interf
 To run the Minecraft clone, follow these steps:
 
 1. Install Python 3.x from [Python.org](https://www.python.org/downloads/)
-2. Install the Pyglet and PyOpenGL libraries using pip:
+2. Install the Pygame and PyOpenGL libraries using pip:
    ```
-   pip install pyglet pyopengl
+   pip install pygame pyopengl
    ```
 3. Download the project files from [GitHub](https://github.com/ApaxPhoenix/PyCraft)
 4. Run the `main.py` file in a terminal or command prompt:
